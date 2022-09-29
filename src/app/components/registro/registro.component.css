@@ -1,0 +1,27 @@
+.body{
+    
+        display: flex;
+        justify-content: center  ;
+        height: 100%;
+        align-items: center;
+        background:url(../../../assets/img/fondo.jpg);
+        background-size:cover;
+        background-attachment: fixed;
+        
+        
+}
+.Login{
+    width: 100%;
+    max-width: 330px;
+    text-align: center;
+    justify-content: center; 
+       
+}
+.ancho{
+    width: 70%;
+    height: 50%;
+}
+
+.buttom{
+    height: 50px;
+} 

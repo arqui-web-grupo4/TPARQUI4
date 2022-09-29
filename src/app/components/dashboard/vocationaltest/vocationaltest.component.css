@@ -1,0 +1,26 @@
+.container{
+    
+    display: flex;
+    margin-top: 80px;
+    padding: 20px;
+    background: #f1d061;
+    
+           
+}
+.text{
+    padding-left: 30px;
+}
+.pointer{
+    
+    cursor: pointer;
+    padding-top: 200px;
+  }
+
+.chaside    {
+    display: flex;
+    margin-top: 80px;
+    padding: 20px;
+    background: #f1d061;
+           
+}
+

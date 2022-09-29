@@ -1,0 +1,22 @@
+[
+    {
+        "nombre":"Inicio",
+        "redirect":"/dashboard"
+    },
+    {
+        "nombre":"Carreras",
+        "redirect":"/dashboard/Carreras"
+    },
+    {
+        "nombre":"Test",
+        "redirect":"/dashboard/Test"
+    },
+    {
+        "nombre":"Citas",
+        "redirect":"/dashboard/Citas"
+    }
+   
+    
+    
+    
+]

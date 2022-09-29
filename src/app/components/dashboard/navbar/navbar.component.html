@@ -1,0 +1,6 @@
+<mat-toolbar color="Basic">
+    <span>CareerAdvisory</span>
+    <span class="example-spacer"></span>
+    <button mat-button *ngFor="let item of menu" [routerLink]="item.redirect"  >{{item.nombre}}</button>
+   
+  </mat-toolbar>
