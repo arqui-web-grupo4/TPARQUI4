@@ -25,7 +25,9 @@ form:FormGroup
     const password=this.form.value.password;
 
     if(usuario == 'neil' && password =='admin123'){
-      this.router.navigate(['dashboard'])
+      this.router.navigate(['dashboard']) }
+    
+    if(usuario == 'gerardo' && password == 'admin'){this.router.navigate(['dashboard'])
 
     }else{this.error();
       this.form.reset();
