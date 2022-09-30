@@ -26,6 +26,8 @@ form:FormGroup
 
     if(usuario == 'neil' && password =='admin123'){
       this.router.navigate(['dashboard'])
+      if(usuario == 'Andre' && password =='admin123'){
+        this.router.navigate(['dashboard'])}
 
     }else{this.error();
       this.form.reset();
